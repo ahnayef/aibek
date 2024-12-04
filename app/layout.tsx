@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
   title: 'AIBAK Learning Institute - Learn, Lead And Empower',
-  description: 'AIBAK Learning Institute is dedicated to empowering individuals through education and knowledge sharing.',
+  description: 'lead with confidence, and win through the power of knowledge!',
 };
 
 export default function RootLayout({
