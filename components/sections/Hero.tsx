@@ -13,7 +13,7 @@ const Hero = () => {
       <div className="container mx-auto">
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           <div>
-            <h1 className="text-2xl text-cyan-600">AIBAK Learning Institute</h1>
+            <h1 className="text-4xl py-2 text-cyan-600">AIBAK Learning Institute</h1>
             <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold leading-tight">
               Learn, Lead And{" "}
               <span className="text-primary">Empower</span>
@@ -26,8 +26,8 @@ const Hero = () => {
                 Events
                 <ArrowRight className="ml-2 h-4 w-4" />
               </Button>
-              <Button variant="outline" size="lg">
-                Learn More
+              <Button variant="outline" size="lg" onClick={() => router.push('/blogs')}>
+                Blogs
               </Button>
             </div>
           </div>

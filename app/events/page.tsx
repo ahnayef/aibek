@@ -5,22 +5,22 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 
 const events = [
   {
-    title: "Introduction to Programming",
+    title: "Demo Event 1",
     date: "November 15, 2024",
-    location: "Main Campus",
-    description: "Learn the basics of programming with our expert instructors.",
+    location: "Sylhet",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, ",
   },
   {
-    title: "Leadership Workshop",
+    title: "Event 2",
     date: "November 20, 2024",
-    location: "Virtual",
-    description: "Develop essential leadership skills for the modern workplace.",
+    location: "Sylhet",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit,",
   },
   {
-    title: "Tech Career Fair",
+    title: "Event 3",
     date: "December 5, 2024",
-    location: "Conference Center",
-    description: "Connect with leading tech companies and explore career opportunities.",
+    location: "Sylhet",
+    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit,",
   },
 ];
 
