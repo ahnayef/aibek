@@ -5,6 +5,7 @@ import { BookOpen, Facebook, Menu, MessageCircle } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import { Sheet, SheetContent, SheetTrigger } from "@/components/ui/sheet";
 import { useState } from "react";
+import logo from "@/app/assets/aibek.png"
 
 const Header = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -19,6 +20,7 @@ const Header = () => {
     <header className="fixed top-0 left-0 right-0 z-50 bg-white/80 backdrop-blur-md border-b">
       <nav className="container mx-auto px-4 h-16 flex items-center justify-between">
         <Link href="/" className="flex items-center space-x-2">
+          <Image src=""></Image>
           <BookOpen className="h-8 w-8 text-primary" />
           <span className="font-bold text-xl">AIBAK</span>
         </Link>
