@@ -5,25 +5,25 @@ import Image from "next/image";
 
 const blogs = [
   {
-    title: "The Future of Education",
+    title: "Demo blog 1",
     date: "October 15, 2024",
-    author: "Dr. Sarah Johnson",
-    excerpt: "Exploring how technology is reshaping the educational landscape.",
-    image: "https://images.unsplash.com/photo-1501504905252-473c47e087f8?auto=format&fit=crop&q=80",
+    author: "Admin",
+    excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ",
+    image: "https://scontent.fdac157-1.fna.fbcdn.net/v/t39.30808-6/461440736_122109474278529652_4564985921964684580_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=2vUV7zfPeS8Q7kNvgFZ8Trp&_nc_zt=23&_nc_ht=scontent.fdac157-1.fna&_nc_gid=AL3Whx0LBnnuyaq41WFTJbP&oh=00_AYCCHP0lAqPhGbCKyDQignMidvEttMb-JUkvLlR94oIFUw&oe=67566F37",
   },
   {
-    title: "Building Leadership Skills",
+    title: "Demo blog 2",
     date: "October 10, 2024",
-    author: "Michael Chen",
-    excerpt: "Key strategies for developing effective leadership capabilities.",
-    image: "https://images.unsplash.com/photo-1517245386807-bb43f82c33c4?auto=format&fit=crop&q=80",
+    author: "Admin",
+    excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ",
+    image: "https://scontent.fdac157-1.fna.fbcdn.net/v/t39.30808-6/461440736_122109474278529652_4564985921964684580_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=2vUV7zfPeS8Q7kNvgFZ8Trp&_nc_zt=23&_nc_ht=scontent.fdac157-1.fna&_nc_gid=AL3Whx0LBnnuyaq41WFTJbP&oh=00_AYCCHP0lAqPhGbCKyDQignMidvEttMb-JUkvLlR94oIFUw&oe=67566F37",
   },
   {
-    title: "Learning in the Digital Age",
+    title: "Demo blog 3",
     date: "October 5, 2024",
-    author: "Emma Williams",
-    excerpt: "Adapting to new learning methodologies in a digital world.",
-    image: "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?auto=format&fit=crop&q=80",
+    author: "Admin",
+    excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ",
+    image: "https://scontent.fdac157-1.fna.fbcdn.net/v/t39.30808-6/461440736_122109474278529652_4564985921964684580_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=2vUV7zfPeS8Q7kNvgFZ8Trp&_nc_zt=23&_nc_ht=scontent.fdac157-1.fna&_nc_gid=AL3Whx0LBnnuyaq41WFTJbP&oh=00_AYCCHP0lAqPhGbCKyDQignMidvEttMb-JUkvLlR94oIFUw&oe=67566F37",
   },
 ];
 

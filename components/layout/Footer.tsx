@@ -13,7 +13,7 @@ const Footer = () => {
               <span className="font-bold text-xl">AIBAK</span>
             </Link>
             <p className="mt-4 text-muted-foreground">
-              AIBAK Learning Institute is dedicated to empowering individuals through education and knowledge sharing.
+            Lead with confidence, and win through the power of knowledge!
             </p>
           </div>
           <div>
@@ -39,12 +39,12 @@ const Footer = () => {
           <div>
             <h3 className="font-semibold mb-4">Connect With Us</h3>
             <div className="flex space-x-4">
-              <Link href="https://facebook.com" target="_blank">
+              <Link href="https://www.facebook.com/AibakLI/" target="_blank">
                 <Button variant="ghost" size="icon">
                   <Facebook className="h-5 w-5" />
                 </Button>
               </Link>
-              <Link href="https://t.me" target="_blank">
+              <Link href="https://www.t.me/AibakLI/" target="_blank">
                 <Button variant="ghost" size="icon">
                   <MessageCircle className="h-5 w-5" />
                 </Button>
